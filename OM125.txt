@@ -1,0 +1,9 @@
+FTP	
+IP : 192.168.110.125	
+U : lfbwebapp2	
+P : LFB@Webapp2
+
+MSSQL	
+IP : 192.168.110.125
+U : innovation
+P : Inno20i9
