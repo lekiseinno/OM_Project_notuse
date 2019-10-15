@@ -1,10 +1,15 @@
-<?php include("include/head.php"); ?>
-<style type="text/css">
-	
-</style>
-<body >
 
-    <div id="wrapper">
+<!DOCTYPE html>
+<html>
+<head>
+	<title>	</title>
+
+</head>
+<body>
+	<?php include("include/head.php"); ?>
+
+
+	<div id="wrapper">
 
 <?php include("include/side_bar.php"); ?>
 <?php 
@@ -58,7 +63,11 @@
 	            </div>
 			</div>
 		</div>
-<?php include("include/footer.php"); ?>
+	</div>
+
+
+	<?php include("include/footer.php"); ?>
+
 
 <script type="text/javascript">
 	$('.custom-file-input').on('change', function() {
@@ -82,6 +91,13 @@
         	$('.show_sheets').html(data);
         }); 
 	}
-
-
 </script>
+</body>
+</html>
+
+
+
+
+
+
+
